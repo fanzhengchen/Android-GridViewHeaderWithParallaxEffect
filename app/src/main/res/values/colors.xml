@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="translucent">#00000000</color>
+    <color name="trans_half">#88000000</color>
+    <color name="trans_dark">#aa000000</color>
+
+    <color name="theme_blue">#34AADC</color>
+    <color name="main_bg">#efeff4</color>
+    <color name="maintab_bg">#FFF1F1F0</color>
+    <color name="main_blue">#007aff</color>
+    <color name="main_orange">#FF952D</color>
+    <color name="main_red">#ff2d55</color>
+    <color name="main_gray">#999999</color>
+    <color name="portrait_bg_gray">#b2c7c7cc</color>
+    <color name="trans_mask">#99000000</color>
+    <color name="trans_mask_dark">#CC000000</color>
+    <color name="light_gray">#666666</color>
+    <color name="dark_gray">#4D4D4D</color>
+    <color name="light_black">#333333</color>
+    <color name="tab_normal">#989898</color>
+    <color name="tab_select">@color/light_black</color>
+
+    <color name="mark_comment_high_light">#FF9500</color>
+
+    <color name="log_blue">#00AAD9</color>
+    <color name="login_grey">#EFEFF4</color>
+
+    <color name="txt_lvl_1">#3e3e3e</color>
+    <color name="txt_lvl_2">#5b5b5b</color>
+    <color name="txt_lvl_3">#aaaaae</color>
+    <color name="txt_lvl_4">#CCCCCC</color>
+    <color name="txt_type_3">#c7c7cc</color>
+    <color name="line_color">#D8D8D8</color>
+    <color name="bg_gray_color">#EFEFF4</color>
+    <color name="gray_lvl_3">@color/trans_mask</color>
+    <color name="cell_selected">#c7c7cc</color>
+
+    <color name="top_tab_color">#34AADC</color>
+    <color name="read_msg_blue">#007AFF</color>
+    <color name="msgbg_green">#00e34e</color>
+    <color name="list_selector">#FF9D10</color>
+    <color name="personal_info_txt_color">#AAAAAE</color>
+    <color name="already_attention">#8E8E93</color>
+
+    <!-- temp colors -->
+    <color name="white_lvl_3">#E0E0E0</color>
+    <color name="white_lvl_2">#EFEFEF</color>
+    <color name="white_lvl_1">#f7f7f7</color>
+    <color name="red">#ff0000</color>
+    <color name="msg_sent_bubble">#a0e75a</color>
+
+</resources>
